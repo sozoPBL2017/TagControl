@@ -1,8 +1,6 @@
 !!Please code in UTF-8 (Look at right bottom on VScode)
 
- # ƒ^ƒOƒRƒ“ƒgƒ[ƒ‹
- ## –Ú“I
-  - ƒRƒ“ƒgƒ[ƒ‹‚Ì—ûK
-  - —Í§Œä‚Ì—ûK
-  - ‚»‚Ì‘¼‚ÌŠm”F
+ # ã‚¿ã‚°ã‚³ãƒ³ãƒˆãƒ­ãƒ¼ãƒ«
+ ## ç›®çš„
+ Â - ã‚¿ã‚°ã‚’åˆ©ç”¨ã—ãŸä»–ç‰©ä½“å¹²æ¸‰
 
